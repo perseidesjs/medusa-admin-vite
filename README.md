@@ -1,0 +1,1 @@
+# A fork of the Medusa Admin system that works with the latest version as a standalone app using Vite
